@@ -94,6 +94,6 @@ public abstract class Cuenta {
 				&& Objects.equals(nombre, other.nombre) && Objects.equals(pais, other.pais)
 				&& Double.doubleToLongBits(saldo) == Double.doubleToLongBits(other.saldo);
 	} 
-	
+
 
 }

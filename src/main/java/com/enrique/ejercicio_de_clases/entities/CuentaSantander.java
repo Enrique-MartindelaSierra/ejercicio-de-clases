@@ -67,7 +67,8 @@ public class CuentaSantander extends Cuenta{
 		CuentaSantander other = (CuentaSantander) obj;
 		return residente == other.residente;
 	}
-	
+
+
 	
 
 
